@@ -6,7 +6,7 @@ However, by 2018, the limitations of Excel became evident as the system grew uns
 The company realized that in the modern digital economy, data is not merely information but a strategic asset, often referred to as digital gold, that can drive decision-making, competitive advantage, and sustainable growth. Recognizing the growing importance of data as a strategic business asset, the company went a step further by establishing a dedicated Data Analytics team which will empower AtliQ Hardware to harness data-driven insights for better decision-making, optimize operations, forecast market trends, and maintain a competitive edge.
 
 
-The entire project has provided end to end experience. I worked on this project by following the Codebasics SQL Course, Link to the course is [here]( https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals)
+The entire project has provided end to end experience. I worked on this project by following the Codebasics SQL Course, Link to the course is [here](https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals)
 
 ## 🗂️ Data Sources
 
@@ -42,7 +42,7 @@ The dataset includes actual sales data from September 1, 2017, to December 31, 2
 ## ✅ Notable SQL Projects
 ________________________________________
 ### 📒 Project -1
-Report on top N Products per Division (with a stored procedure)
+Report on top N Products per Division (with a stored procedure). Link to the report is [here](https://github.com/showcasejyoti/SQL-Twin-Project/blob/main/Report-Top%205%20product%20per%20division.pdf)
 
 #### 🔍 Purpose of the Assignment:
 To identify and rank the top-selling products within each division based on total quantity sold.
@@ -91,7 +91,7 @@ WHEN THE INPUT: in_fiscal_year=2021, in_top_n=5
 
 
 ### 📒 Project-2
-Report on Customer whose forecast accuracy has dropped from 2020 to 2021
+Report on Customer whose forecast accuracy has dropped from 2020 to 2021. Link to the report is [here](https://github.com/showcasejyoti/SQL-Twin-Project/blob/main/Report-Forecast_Accuracy_drop.pdf)
 
 #### 🔍 Purpose of the Assignment:
 To analyze and compare customer forecast accuracy between two fiscal years (2020 and 2021) and identify customers whose forecast accuracy has declined.
