@@ -6,6 +6,8 @@ However, by 2018, the limitations of Excel became evident as the system grew uns
 The company realized that in the modern digital economy, data is not merely information but a strategic asset, often referred to as digital gold, that can drive decision-making, competitive advantage, and sustainable growth. Recognizing the growing importance of data as a strategic business asset, the company went a step further by establishing a dedicated Data Analytics team which will empower AtliQ Hardware to harness data-driven insights for better decision-making, optimize operations, forecast market trends, and maintain a competitive edge.
 
 
+The entire project has provided end to end experience. I worked on this project by following the Codebasics SQL Course, Link to the course is [here]https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals
+
 ## 🗂️ Data Sources
 
 AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
