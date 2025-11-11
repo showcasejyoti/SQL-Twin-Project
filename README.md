@@ -79,10 +79,11 @@ WHEN THE INPUT: in_fiscal_year=2021, in_top_n=5
 
 #### 📈  View Exported Result
 
-<img width="1877" height="1011" alt="top_n_product_per_division pdf - Adobe Acrobat Reader (64-bit) 10-11-2025 17_27_50" src="https://github.com/user-attachments/assets/baa4ec8c-0705-491e-afcf-ea92273c9adc" />
 
 
 
+
+<img width="1920" height="1020" alt="Report-Top 5 product per division pdf - Adobe Acrobat Reader (64-bit) 11-11-2025 13_03_34" src="https://github.com/user-attachments/assets/e358fc08-b00a-4694-8f29-8652f3e748ea" />
 
 
 
@@ -132,9 +133,9 @@ This helps the business identify areas where forecasting performance has deterio
 
 #### 📈 View Exported Result
 
-<img width="1920" height="1020" alt="top_n_product_per_division pdf - Adobe Acrobat Reader (64-bit) 10-11-2025 17_39_28" src="https://github.com/user-attachments/assets/36f3f3fe-fe1f-4f38-8795-d187d6987141" />
 
 
+<img width="1920" height="1020" alt="Report-Forecast_Accuracy_drop pdf - Adobe Acrobat Reader (64-bit) 11-11-2025 13_03_19" src="https://github.com/user-attachments/assets/04deedc7-01c4-4246-8d56-9ebb2610648f" />
 
 
 
